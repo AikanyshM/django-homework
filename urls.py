@@ -20,3 +20,4 @@ urlpatterns = [
     # path('admin/', admin.site.urls),
     path('shop2/', include('shop2.urls'))
 ]
+
